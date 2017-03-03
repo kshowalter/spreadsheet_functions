@@ -1,0 +1,22 @@
+{
+  "name": "spreadsheet_functions",
+  "version": "0.1.0",
+  "description": "Javascript functions that mimic common spreadsheet functions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kshowalter/spreadsheet_functions.git"
+  },
+  "keywords": [
+    "spreadsheet"
+  ],
+  "author": "K Showalter",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kshowalter/spreadsheet_functions/issues"
+  },
+  "homepage": "https://github.com/kshowalter/spreadsheet_functions#readme"
+}
