@@ -40,6 +40,9 @@ var spreadsheet_functions = {
     }
     return min;
   },
+  index: function(array, index){
+    return array[index];
+  },
 
 
 
