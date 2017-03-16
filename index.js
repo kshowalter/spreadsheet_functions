@@ -22,6 +22,9 @@ var spreadsheet_functions = {
     }
     return true;
   },
+  not: function(value){
+    return !value;
+  },
   max: function(){
     var max = 0;
     for( var i in arguments ){
